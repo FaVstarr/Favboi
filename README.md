@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **favourchamberlain32@gmail.com**
 
-- ⚡ Fun fact **The Weird Kid Next Door || Tech Enthusiast**
+- ⚡ Fun fact **The Weird Kid Next Door || Cyber Security Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
