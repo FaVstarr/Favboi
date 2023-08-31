@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **StarBroker, Voter**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next js**
 
 - 🤝 I’m looking for help with **favour-s store**
 
 - 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Tailwind, PHP**
 
 - 📫 How to reach me **favourchamberlain32@gmail.com**
 
