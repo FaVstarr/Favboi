@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 🤝 I’m looking for help with **FAST[private**
+- 🤝 I’m looking for help with **FASTA**
 
 - 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
 
