@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=favboi" alt="favboi" /></a> </p>
 
-- 🔭 I’m currently working on **StarBroker, Voter**
+- 🔭 I’m currently working on **FASTA**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **React Native**
 
-- 🤝 I’m looking for help with **favour-s store**
+- 🤝 I’m looking for help with **FAST[private**
 
 - 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
 
